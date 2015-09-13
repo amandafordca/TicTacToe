@@ -4,8 +4,8 @@ public class Board {
 	public Board(){
 		
 	}
-	//private String[] coordinates = {"a1","a2","a3","b1","b2","b3","c1","c2","c3"};
-	private String[] coordinates = {"X ","O ","X ","O ","X ","O ","O ","c2","O "};
+	private String[] coordinates = {"a1","a2","a3","b1","b2","b3","c1","c2","c3"};
+	//private String[] coordinates = {"X ","O ","X ","O ","X ","O ","O ","c2","O "};
 	
 	public void printBoard(){
 		System.out.println(" ____ ____ ____ \n");
